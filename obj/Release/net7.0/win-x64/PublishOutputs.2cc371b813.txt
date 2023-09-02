@@ -1,0 +1,2 @@
+C:\Users\Redspear\Desktop\fcc_c#_course\aDotnetConsoleGame\bin\Release\net7.0\win-x64\publish\TestProject.pdb
+C:\Users\Redspear\Desktop\fcc_c#_course\aDotnetConsoleGame\bin\Release\net7.0\win-x64\publish\TestProject.exe
